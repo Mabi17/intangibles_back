@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Intangibles.Controllers.ProductoController",
+    "Method": "Lista",
+    "RelativePath": "api/Producto/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

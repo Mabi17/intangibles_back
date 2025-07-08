@@ -1,0 +1,6 @@
+@Intangibles_HostAddress = http://localhost:5092
+
+GET {{Intangibles_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

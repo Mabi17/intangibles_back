@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|c:\\users\\mabi1\\onedrive\\documentos\\proyectos net core\\intangibles\\intangibles\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|solutionrelative:intangibles\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|c:\\users\\mabi1\\onedrive\\documentos\\proyectos net core\\intangibles\\intangibles\\models\\bdproductocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|solutionrelative:intangibles\\models\\bdproductocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|c:\\users\\mabi1\\onedrive\\documentos\\proyectos net core\\intangibles\\intangibles\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|solutionrelative:intangibles\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|c:\\users\\mabi1\\onedrive\\documentos\\proyectos net core\\intangibles\\intangibles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|solutionrelative:intangibles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|c:\\users\\mabi1\\onedrive\\documentos\\proyectos net core\\intangibles\\intangibles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14368522-ED6D-4932-AD79-465F5CE44A6D}|Intangibles\\Intangibles.csproj|solutionrelative:intangibles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Intangibles\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Models\\Producto.cs",
+              "RelativeToolTip": "Intangibles\\Models\\Producto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:19:13.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\appsettings.json",
+              "RelativeDocumentMoniker": "Intangibles\\appsettings.json",
+              "ToolTip": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\appsettings.json",
+              "RelativeToolTip": "Intangibles\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T05:09:08.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Program.cs",
+              "RelativeDocumentMoniker": "Intangibles\\Program.cs",
+              "ToolTip": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Program.cs",
+              "RelativeToolTip": "Intangibles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:08:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Intangibles\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Intangibles\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:05:05.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BdProductoContext.cs",
+              "DocumentMoniker": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Models\\BdProductoContext.cs",
+              "RelativeDocumentMoniker": "Intangibles\\Models\\BdProductoContext.cs",
+              "ToolTip": "C:\\Users\\mabi1\\OneDrive\\Documentos\\PROYECTOS NET CORE\\Intangibles\\Intangibles\\Models\\BdProductoContext.cs",
+              "RelativeToolTip": "Intangibles\\Models\\BdProductoContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T04:55:01.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
